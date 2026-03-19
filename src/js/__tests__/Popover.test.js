@@ -1,4 +1,4 @@
-import Popover from '../src/Popover';
+import Popover from '../Popover';
 
 describe('Popover', () => {
   let btn;
